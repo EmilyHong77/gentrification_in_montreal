@@ -1,0 +1,32 @@
+# DATA 1.0 data_cleaning
+# Raw census data
+data/data_cleaning/raw_census_data/
+
+# Cleaned census datasets
+data/data_cleaning/clean_census_data/
+
+# Census crosswalk tables
+data/data_cleaning/census_crosswalks_data/
+
+# Standardized datasets
+data/data_cleaning/standardized_data/
+
+# Ding Measurements
+data/data_cleaning/ding_measurements/
+
+# Model Training results
+
+
+# DATA 2.0 notebooks
+data/notebooks/.ipynb_checkpoints/
+
+# SECRETS
+.env
+*.env
+*.key
+*.pem
+
+# OS/ EDITOR
+.DS_Store
+.vscode/
+
